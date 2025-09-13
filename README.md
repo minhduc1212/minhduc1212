@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="eda5739966cb33768d8ad0d77d7307ce.gif" width="600" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhduc1212&label=Profile%20views&color=0e75b6&style=flat" alt="minhduc1212" /> </p>
 
