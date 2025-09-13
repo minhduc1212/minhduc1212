@@ -21,8 +21,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc1212&" alt="minhduc1212" /></p>
 
+![snake animation](dist/github-snake.svg)```
+
+**Cách nâng cao (hỗ trợ cả Dark Mode và Light Mode trên GitHub):**
+Để tự động chuyển đổi giữa ảnh sáng và tối, hãy sử dụng đoạn mã HTML sau trong file `README.md` của bạn.
+
+```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+</picture>s
