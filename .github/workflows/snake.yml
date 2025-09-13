@@ -1,36 +1,35 @@
 # Tên của workflow
 name: Generate Snake Animation
 
-# Controls when the action will run
 on:
-  # Lên lịch chạy tự động mỗi ngày vào lúc 0 giờ (UTC)
+  # Chạy tự động mỗi ngày
   schedule:
     - cron: "0 0 * * *"
-
-  # Cho phép bạn chạy workflow này thủ công từ tab Actions
+  # Cho phép chạy thủ công
   workflow_dispatch:
 
-# Một workflow bao gồm một hoặc nhiều job
 jobs:
-  # Job này có tên là "build"
   build:
-    # Chạy trên phiên bản Ubuntu mới nhất
     runs-on: ubuntu-latest
-
     steps:
-      # Kiểm tra (checkout) code trong repository của bạn
+      # 1. Checkout repository để workflow có thể truy cập
       - uses: actions/checkout@v3
 
-      # Bước chính: Sử dụng Action để tạo ảnh con rắn
+      # 2. Tạo ảnh con rắn từ contribution grid
       - uses: Platane/snk@v3
         with:
-          # Tên người dùng GitHub của bạn (bắt buộc)
-          # Thay 'your-github-username' bằng tên user của bạn
-          github_user_name: your-github-username
+          # Tên người dùng GitHub của bạn (BẮT BUỘC)
+          github_user_name: ${{ github.repository_owner }}
 
-          # Các file output sẽ được tạo ra
-          # Bạn có thể tùy chỉnh màu sắc và định dạng ở đây
+          # Định dạng file output
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 3. Đẩy (push) các file đã tạo vào repository
+      - run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git commit -m "Generate Snake Animation"
+          git push
