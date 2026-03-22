@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently studying on **USTH**
 
-- 🌱 I’m currently learning **Unity and C#**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100038787364556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100038787364556" height="30" width="40" /></a>
