@@ -1,0 +1,53 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Chạy vào 0h sáng mỗi ngày
+  workflow_dispatch: # Cho phép bấm chạy thủ công
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Cấu hình chung
+          user: minhduc1212
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+
+          # 1. Plugin Achievements (Thành tựu/Trophy)
+          plugin_achievements: yes
+          plugin_achievements_display: compact # Hiển thị gọn gàng
+          plugin_achievements_threshold: C     # Chỉ hiện các huy chương từ hạng C trở lên
+
+          # 2. Plugin Languages (Ngôn ngữ lập trình)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex # Bỏ qua các ngôn ngữ đánh dấu
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8                # Hiện top 8 ngôn ngữ
+
+          # 3. Plugin Habits (Thói quen code)
+          plugin_habits: yes
+          plugin_habits_from: 200       # Phân tích dựa trên 200 sự kiện gần nhất
+          plugin_habits_days: 14        # Trong vòng 14 ngày qua
+          plugin_habits_facts: yes      # Hiển thị các sự thật thú vị về thói quen
+
+          # 4. Plugin Lines (Tổng số dòng code)
+          plugin_lines: yes
+
+          # 5. Plugin Activity (Hoạt động gần đây)
+          plugin_activity: yes
+          plugin_activity_limit: 5      # Hiện 5 hoạt động mới nhất
+          plugin_activity_days: 14
+          plugin_activity_filter: all   # Hiện tất cả: push, issue, pr...
+
+          # 6. Plugin Repositories (Các repo nổi bật)
+          plugin_repositories: yes
+          plugin_repositories_featured: minhduc1212/AgriAgent, minhduc1212/StoryManager # Điền các repo "xịn" của bạn vào đây
+          plugin_repositories_pinned: 4 # Hiển thị tối đa 4 repo ghim
+
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_games_limit: 3
