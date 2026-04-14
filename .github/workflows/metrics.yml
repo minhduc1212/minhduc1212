@@ -46,7 +46,6 @@ jobs:
 
           # 6. Plugin Repositories (Các repo nổi bật)
           plugin_repositories: yes
-          plugin_repositories_featured: # Điền các repo "xịn" của bạn vào đây
           plugin_repositories_pinned: 4 # Hiển thị tối đa 4 repo ghim
 
           plugin_steam_sections: player, most-played, recently-played
