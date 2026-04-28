@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Duc (Minh Duc)
+name: Duc (Nguyen Minh Duc)
 location: Vietnam 🇻🇳
 university: USTH (University of Science and Technology of Hanoi)
 major: Information and Communication Technology
