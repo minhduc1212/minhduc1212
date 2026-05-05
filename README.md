@@ -74,6 +74,8 @@ hobbies: [Coding, Gaming, Exploring New Tech, Reading, Music]
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![mitmproxy](https://img.shields.io/badge/mitmproxy-FF5C57?style=for-the-badge&logo=mitmproxy&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-F5A623?style=for-the-badge&logo=charles&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 
