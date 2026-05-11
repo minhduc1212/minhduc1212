@@ -98,224 +98,103 @@ hobbies: [Coding, Gaming, Exploring New Tech, Reading, Music]
 
 ### 📥 Downloaders
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Vid_Downloader">🎬 Vid Downloader</a></h4>
-      <p>Download videos from various online platforms with ease.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/MusicDownloader">🎵 Music Downloader</a></h4>
-      <p>Download music tracks from streaming sources.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/film_downloader">🎥 Film Downloader</a></h4>
-      <p>Automated film/movie downloading tool.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/mediafire_downloader">☁️ MediaFire Downloader</a></h4>
-      <p>CLI tool to download files from MediaFire links.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/hako_downloader">📖 Hako Downloader</a></h4>
-      <p>Download light novels from the Hako platform.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/bunkr">💾 Bunkr</a></h4>
-      <p>Downloader for the Bunkr file hosting service.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Torr_Dowloader">🌊 Torrent Downloader</a></h4>
-      <p>Simple torrent downloading utility.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Related_YT_Music">🎧 Related YT Music</a></h4>
-      <p>Discover and download related music from YouTube.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Vid Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Vid_Downloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/Vid_Downloader)
+[![Music Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=MusicDownloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/MusicDownloader)
+
+[![Film Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=film_downloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/film_downloader)
+[![MediaFire Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=mediafire_downloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/mediafire_downloader)
+
+[![Hako Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=hako_downloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/hako_downloader)
+[![Bunkr](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=bunkr&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/bunkr)
+
+[![Torrent Downloader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Torr_Dowloader&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/Torr_Dowloader)
+[![Related YT Music](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Related_YT_Music&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/Related_YT_Music)
+
+</div>
 
 ---
 
 ### 🕷️ Crawlers & Scrapers
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Crawl_Novel">📚 Novel Crawler</a></h4>
-      <p>Crawl and archive novels from online reading sites.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Crawl_Comic">🖼️ Comic Crawler</a></h4>
-      <p>Crawl and download comics/manga from web sources.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/FB_Mess_Crawler">💬 FB Messenger Crawler</a></h4>
-      <p>Extract and archive Facebook Messenger conversation data.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/C_Sharp_Crawl">🔷 C# Crawler</a></h4>
-      <p>Web scraping tool built with C#.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Selenium_Check">🤖 Selenium Check</a></h4>
-      <p>Browser automation and web checking scripts using Selenium.</p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<div align="center">
+
+[![Crawl Novel](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Crawl_Novel&theme=radical&hide_border=true)](https://github.com/minhduc1212/Crawl_Novel)
+[![Crawl Comic](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Crawl_Comic&theme=radical&hide_border=true)](https://github.com/minhduc1212/Crawl_Comic)
+
+[![FB Messenger Crawler](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=FB_Mess_Crawler&theme=radical&hide_border=true)](https://github.com/minhduc1212/FB_Mess_Crawler)
+[![C# Crawler](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=C_Sharp_Crawl&theme=radical&hide_border=true)](https://github.com/minhduc1212/C_Sharp_Crawl)
+
+[![Selenium Check](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Selenium_Check&theme=radical&hide_border=true)](https://github.com/minhduc1212/Selenium_Check)
+
+</div>
 
 ---
 
 ### 🤖 AI, Bots & Automation
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/My_First_Agent">🧠 My First Agent</a></h4>
-      <p>First foray into building an autonomous AI agent.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/LLM_Trans">🌐 LLM Translator</a></h4>
-      <p>Translation tool powered by large language models.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Gemini_Asking">✨ Gemini Asking</a></h4>
-      <p>Interactive interface for querying Google's Gemini AI.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Chinese_Trans">🈳 Chinese Translator</a></h4>
-      <p>Chinese language translation utility.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/USTH_Calendar_Bot">📅 USTH Calendar Bot</a></h4>
-      <p>Bot that syncs and manages USTH academic schedule.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Auto-Mailing">📧 Auto Mailing</a></h4>
-      <p>Automated email sending and scheduling system.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Flight-Satisfaction-Predictor">✈️ Flight Satisfaction Predictor</a></h4>
-      <p>ML model that predicts airline passenger satisfaction.</p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<div align="center">
+
+[![My First Agent](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=My_First_Agent&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/My_First_Agent)
+[![LLM Translator](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=LLM_Trans&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/LLM_Trans)
+
+[![Gemini Asking](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Gemini_Asking&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/Gemini_Asking)
+[![Chinese Translator](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Chinese_Trans&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/Chinese_Trans)
+
+[![USTH Calendar Bot](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=USTH_Calendar_Bot&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/USTH_Calendar_Bot)
+[![Auto Mailing](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Auto-Mailing&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/Auto-Mailing)
+
+[![Flight Satisfaction Predictor](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Flight-Satisfaction-Predictor&theme=nightowl&hide_border=true)](https://github.com/minhduc1212/Flight-Satisfaction-Predictor)
+
+</div>
 
 ---
 
 ### 🛠️ Tools & Utilities
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Vault_Library">🏛️ Vault Library</a></h4>
-      <p>Local manga/comic library manager with web UI (Flask + SQLite).</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Quak_File_Transfer">⚡ Quak File Transfer</a></h4>
-      <p>Fast local file transfer tool between devices.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/quick_zlib">🗜️ Quick Zlib</a></h4>
-      <p>Quick compression/decompression using zlib.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Zip_All_Folder">📦 Zip All Folder</a></h4>
-      <p>Batch utility to zip all folders in a directory.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Telegram_Cloud_CLI">☁️ Telegram Cloud CLI</a></h4>
-      <p>Use Telegram as free cloud storage via the command line.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Alarm_Room">⏰ Alarm Room</a></h4>
-      <p>Desktop alarm and room scheduling application.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Epub_Reader">📖 EPUB Reader</a></h4>
-      <p>Desktop EPUB e-book reader application.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Blockchain_Donation">⛓️ Blockchain Donation</a></h4>
-      <p>Transparent donation platform built on blockchain.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Vault Library](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Vault_Library&theme=merko&hide_border=true)](https://github.com/minhduc1212/Vault_Library)
+[![Quak File Transfer](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Quak_File_Transfer&theme=merko&hide_border=true)](https://github.com/minhduc1212/Quak_File_Transfer)
+
+[![Quick Zlib](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=quick_zlib&theme=merko&hide_border=true)](https://github.com/minhduc1212/quick_zlib)
+[![Zip All Folder](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Zip_All_Folder&theme=merko&hide_border=true)](https://github.com/minhduc1212/Zip_All_Folder)
+
+[![Telegram Cloud CLI](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Telegram_Cloud_CLI&theme=merko&hide_border=true)](https://github.com/minhduc1212/Telegram_Cloud_CLI)
+[![Alarm Room](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Alarm_Room&theme=merko&hide_border=true)](https://github.com/minhduc1212/Alarm_Room)
+
+[![EPUB Reader](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Epub_Reader&theme=merko&hide_border=true)](https://github.com/minhduc1212/Epub_Reader)
+[![Blockchain Donation](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Blockchain_Donation&theme=merko&hide_border=true)](https://github.com/minhduc1212/Blockchain_Donation)
+
+</div>
 
 ---
 
 ### 🎮 Games & Creative
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/The_Litch">🧟 The Lich</a></h4>
-      <p>A dark fantasy game project.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/Text_Based_Game">📜 Text Based Game</a></h4>
-      <p>A classic text-adventure style game.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/RPS_Battle">✊ RPS Battle</a></h4>
-      <p>Rock-Paper-Scissors game with battle mechanics.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/StartAgain">🔄 Start Again</a></h4>
-      <p>A narrative/game project about new beginnings.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/DoYouFindItInteresting">🤔 Do You Find It Interesting?</a></h4>
-      <p>An experimental interactive project.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/ChillNightWithMe">🌙 Chill Night With Me</a></h4>
-      <p>A cozy ambient/music companion app for late nights.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![The Lich](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=The_Litch&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/The_Litch)
+[![Text Based Game](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=Text_Based_Game&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/Text_Based_Game)
+
+[![RPS Battle](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=RPS_Battle&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/RPS_Battle)
+[![Start Again](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=StartAgain&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/StartAgain)
+
+[![Do You Find It Interesting](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=DoYouFindItInteresting&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/DoYouFindItInteresting)
+[![Chill Night With Me](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=ChillNightWithMe&theme=gruvbox&hide_border=true)](https://github.com/minhduc1212/ChillNightWithMe)
+
+</div>
 
 ---
 
 ### 📱 Desktop Apps
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/minhduc1212/TheBookmarker_Desktop_App">🔖 The Bookmarker</a></h4>
-      <p>Desktop app to save, organize, and manage bookmarks.</p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<div align="center">
+
+[![The Bookmarker](https://github-readme-stats.vercel.app/api/pin/?username=minhduc1212&repo=TheBookmarker_Desktop_App&theme=tokyonight&hide_border=true)](https://github.com/minhduc1212/TheBookmarker_Desktop_App)
+
+</div>
 
 ---
 
