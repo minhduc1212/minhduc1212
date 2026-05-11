@@ -431,7 +431,7 @@ hobbies: [Coding, Gaming, Exploring New Tech, Reading, Music]
 <table>
 <tr>
 <td width="50%">
-<h3><a href="https://github.com/minhduc1212/The_Litch">🧟 The Lich</a></h3>
+<h3><a href="https://github.com/minhduc1212/The_Litch">🧟 The Litch</a></h3>
 <p>A dark fantasy game project.</p>
 <p>
   <img src="https://img.shields.io/github/stars/minhduc1212/The_Litch?style=flat-square&color=f7c948&labelColor=1a1b27" />
