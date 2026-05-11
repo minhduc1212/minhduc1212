@@ -92,6 +92,233 @@ hobbies: [Coding, Gaming, Exploring New Tech, Reading, Music]
 
 ---
 
+## 🚀 Projects
+
+> A collection of things I've built — downloaders, crawlers, AI tools, games, and more.
+
+### 📥 Downloaders
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Vid_Downloader">🎬 Vid Downloader</a></h4>
+      <p>Download videos from various online platforms with ease.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/MusicDownloader">🎵 Music Downloader</a></h4>
+      <p>Download music tracks from streaming sources.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/film_downloader">🎥 Film Downloader</a></h4>
+      <p>Automated film/movie downloading tool.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/mediafire_downloader">☁️ MediaFire Downloader</a></h4>
+      <p>CLI tool to download files from MediaFire links.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/hako_downloader">📖 Hako Downloader</a></h4>
+      <p>Download light novels from the Hako platform.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/bunkr">💾 Bunkr</a></h4>
+      <p>Downloader for the Bunkr file hosting service.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Torr_Dowloader">🌊 Torrent Downloader</a></h4>
+      <p>Simple torrent downloading utility.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Related_YT_Music">🎧 Related YT Music</a></h4>
+      <p>Discover and download related music from YouTube.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🕷️ Crawlers & Scrapers
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Crawl_Novel">📚 Novel Crawler</a></h4>
+      <p>Crawl and archive novels from online reading sites.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Crawl_Comic">🖼️ Comic Crawler</a></h4>
+      <p>Crawl and download comics/manga from web sources.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/FB_Mess_Crawler">💬 FB Messenger Crawler</a></h4>
+      <p>Extract and archive Facebook Messenger conversation data.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/C_Sharp_Crawl">🔷 C# Crawler</a></h4>
+      <p>Web scraping tool built with C#.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Selenium_Check">🤖 Selenium Check</a></h4>
+      <p>Browser automation and web checking scripts using Selenium.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
+
+### 🤖 AI, Bots & Automation
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/My_First_Agent">🧠 My First Agent</a></h4>
+      <p>First foray into building an autonomous AI agent.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/LLM_Trans">🌐 LLM Translator</a></h4>
+      <p>Translation tool powered by large language models.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Gemini_Asking">✨ Gemini Asking</a></h4>
+      <p>Interactive interface for querying Google's Gemini AI.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Chinese_Trans">🈳 Chinese Translator</a></h4>
+      <p>Chinese language translation utility.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/USTH_Calendar_Bot">📅 USTH Calendar Bot</a></h4>
+      <p>Bot that syncs and manages USTH academic schedule.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Auto-Mailing">📧 Auto Mailing</a></h4>
+      <p>Automated email sending and scheduling system.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Flight-Satisfaction-Predictor">✈️ Flight Satisfaction Predictor</a></h4>
+      <p>ML model that predicts airline passenger satisfaction.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tools & Utilities
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Vault_Library">🏛️ Vault Library</a></h4>
+      <p>Local manga/comic library manager with web UI (Flask + SQLite).</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Quak_File_Transfer">⚡ Quak File Transfer</a></h4>
+      <p>Fast local file transfer tool between devices.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/quick_zlib">🗜️ Quick Zlib</a></h4>
+      <p>Quick compression/decompression using zlib.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Zip_All_Folder">📦 Zip All Folder</a></h4>
+      <p>Batch utility to zip all folders in a directory.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Telegram_Cloud_CLI">☁️ Telegram Cloud CLI</a></h4>
+      <p>Use Telegram as free cloud storage via the command line.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Alarm_Room">⏰ Alarm Room</a></h4>
+      <p>Desktop alarm and room scheduling application.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Epub_Reader">📖 EPUB Reader</a></h4>
+      <p>Desktop EPUB e-book reader application.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Blockchain_Donation">⛓️ Blockchain Donation</a></h4>
+      <p>Transparent donation platform built on blockchain.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎮 Games & Creative
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/The_Litch">🧟 The Lich</a></h4>
+      <p>A dark fantasy game project.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/Text_Based_Game">📜 Text Based Game</a></h4>
+      <p>A classic text-adventure style game.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/RPS_Battle">✊ RPS Battle</a></h4>
+      <p>Rock-Paper-Scissors game with battle mechanics.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/StartAgain">🔄 Start Again</a></h4>
+      <p>A narrative/game project about new beginnings.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/DoYouFindItInteresting">🤔 Do You Find It Interesting?</a></h4>
+      <p>An experimental interactive project.</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/ChillNightWithMe">🌙 Chill Night With Me</a></h4>
+      <p>A cozy ambient/music companion app for late nights.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📱 Desktop Apps
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/minhduc1212/TheBookmarker_Desktop_App">🔖 The Bookmarker</a></h4>
+      <p>Desktop app to save, organize, and manage bookmarks.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
